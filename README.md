@@ -49,8 +49,6 @@
   <a href="https://www.pinterest.ca/matteotosato"><img src="https://img.shields.io/badge/-@matteotosato-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 </p>
 
----
-
 <p align="center">
   <a><img src="https://www.codewars.com/users/vishvamitra/badges/small"/></a>
 </p>
