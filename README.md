@@ -1,13 +1,17 @@
-### Hi there, I'm Matteo 👋
+<p align="center">
+  <strong>Hi there, I'm Matteo 👋</strong>
+</p>
 
 ---
 
-[snake]()
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
+</div>
 
 ---
 
 - 🌱 I deal with planning, design and develop distributed systems.
-- 🔭 Emphasizing the use of iterative object-oriented development techniques, S.O.L.I.D. principles and Domain-Driven-Design.
+- 🔭 Emphasizing the use of iterative object-oriented development techniques, SOLID and DDD.
 - 👯 Usually by starts with people and process, not tools and technology.
 - 🌀 I have been interested in depth-psychology since I was 19. I practice meditation and am an instructor.
 
