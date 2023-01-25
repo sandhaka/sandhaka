@@ -4,12 +4,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sandhaka/sandhaka/output/github-contribution-grid-snake.svg" alt="snake" /></a>
-</div>
-
----
-
 - 🌱 I deal with planning, design and develop distributed systems.
 - 🔭 Emphasizing the use of iterative object-oriented development techniques, SOLID and DDD.
 - 👯 Usually by starts with people and process, not tools and technology.
