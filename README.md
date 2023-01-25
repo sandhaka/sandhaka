@@ -17,7 +17,7 @@
 </p>
 
 ---
-
+<p align="center">
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
@@ -36,3 +36,4 @@
 ![Rider](https://img.shields.io/badge/-Rider-05122A?style=flat&logo=rider)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
 ![CodeWars](https://img.shields.io/badge/-CodeWars-05122A?style=flat&logo=codewars&logoColor=red)
+  </p>
