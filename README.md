@@ -4,10 +4,17 @@
 
 ---
 
-- 🌱 I deal with planning, design and develop distributed systems.
-- 🔭 Emphasizing the use of iterative object-oriented development techniques, SOLID and DDD.
-- 👯 Usually by starts with people and process, not tools and technology.
-- 🌀 I have been interested in depth-psychology since I was 19. I practice meditation and am an instructor.
+<p align="center">
+  <a href="https://linkedin.com/in/matteo-t-10124020"><img src="https://img.shields.io/badge/-Matteo%20Tosato-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/matteott7"><img src="https://img.shields.io/badge/-@matteott7-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.pinterest.com/matteotosato"><img src="https://img.shields.io/badge/-@matteotosato-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+  <a href="https://twitter.com/vishvamitra87"><img src="https://img.shields.io/badge/-@vishvamitra87-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
+  
+</p>
+
+<p align="center">
+  <a><img src="https://www.codewars.com/users/vishvamitra/badges/small"/></a>
+</p>
 
 ---
 
@@ -34,17 +41,3 @@
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)
 
 ![CodeWars](https://img.shields.io/badge/-CodeWars-05122A?style=flat&logo=codewars&logoColor=red)
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/matteo-t-10124020"><img src="https://img.shields.io/badge/-Matteo%20Tosato-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/matteott7"><img src="https://img.shields.io/badge/-@matteott7-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.pinterest.com/matteotosato"><img src="https://img.shields.io/badge/-@matteotosato-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-  <a href="https://twitter.com/vishvamitra87"><img src="https://img.shields.io/badge/-@vishvamitra87-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>
-  
-</p>
-
-<p align="center">
-  <a><img src="https://www.codewars.com/users/vishvamitra/badges/small"/></a>
-</p>
