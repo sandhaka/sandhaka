@@ -26,7 +26,7 @@
 ![GraphQl](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql)
 ![.Net](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
-![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor)
+![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor&logoColor=purple)
 ![K8s](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
