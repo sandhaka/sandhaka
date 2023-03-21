@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/vishvamitra" target"_blank"><img src="https://www.codewars.com/users/vishvamitra/badges/small" /></a>
+  <a href="https://www.codewars.com/users/vishvamitra/completed" target"_blank"><img src="https://www.codewars.com/users/vishvamitra/badges/small" /></a>
 </p>
 
 ---
