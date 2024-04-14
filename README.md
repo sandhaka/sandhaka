@@ -18,19 +18,21 @@
 
 ---
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=green)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![GraphQl](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql)
 ![.Net](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+---
+
 ![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor&logoColor=purple)
 ![K8s](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![GraphQl](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=elasticsearch)
 ![MsSql](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=microsoft%20sql%20server)
 ![Rider](https://img.shields.io/badge/-Rider-05122A?style=flat&logo=rider)
