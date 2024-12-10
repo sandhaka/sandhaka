@@ -20,7 +20,6 @@
 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=green)
 ![.Net](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 
@@ -32,6 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![GraphQl](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=elasticsearch)
 ![MsSql](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=microsoft%20sql%20server)
