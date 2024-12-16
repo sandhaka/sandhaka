@@ -6,10 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/matteo-t-10124020"><img src="https://img.shields.io/badge/-Matteo%20Tosato-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/blualchemico"><img src="https://img.shields.io/badge/-@blualchemico-E4405F?style=flat&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.pinterest.com/matteotosato"><img src="https://img.shields.io/badge/-@matteotosato-BD081C?style=flat&logo=Pinterest&logoColor=white" /></a>
-  <a href="https://twitter.com/vishvamitra87"><img src="https://img.shields.io/badge/-@vishvamitra87-0077B5?style=flat&logo=Twitter&logoColor=white" /></a>
-  
 </p>
 
 <p align="center">
