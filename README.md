@@ -18,17 +18,16 @@
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=green)
 ![.Net](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)
 ![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ---
 
-![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor&logoColor=purple)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![K8s](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor&logoColor=purple)
 ![GraphQl](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=elasticsearch)
 ![MsSql](https://img.shields.io/badge/-Microsoft%20Sql%20Server-05122A?style=flat&logo=microsoft%20sql%20server)
