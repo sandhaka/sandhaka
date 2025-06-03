@@ -25,7 +25,6 @@
 ![K8s](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Blazor](https://img.shields.io/badge/-Blazor-05122A?style=flat&logo=blazor&logoColor=purple)
 ![GraphQl](https://img.shields.io/badge/-GraphQl-05122A?style=flat&logo=graphql)
