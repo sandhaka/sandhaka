@@ -20,7 +20,7 @@
 ![MongoDb](https://img.shields.io/badge/-MongoDb-05122A?style=flat&logo=mongodb)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ---
-
+![Zig](https://img.shields.io/badge/-Zig-05122A?style=flat&logo=zig)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![K8s](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
